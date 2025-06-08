@@ -32,7 +32,7 @@ X11Forwarding no
 
 ```
 
-systemctl restart sshd 
+`systemctl restart sshd` 
 
 ### Klasör Yapısını Oluşturma
 
@@ -65,7 +65,7 @@ AllowTcpForwarding no
 X11Forwarding no
 ```
 
-systemctl restart sshd
+`systemctl restart sshd`
 
 ### Kullanıcı Grubu Oluşturma ve Kullanıcıları Eklemek
 
@@ -141,7 +141,7 @@ AllowTcpForwarding no
 X11Forwarding no
 ```
 
-systemctl restart sshd 
+`systemctl restart sshd`
 
 ### 5.adım :
 
